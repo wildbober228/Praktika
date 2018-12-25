@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\laba10\laba10\bin\Debug\laba10.exe.config
+C:\Users\Lenovo\source\repos\laba10\laba10\bin\Debug\laba10.exe
+C:\Users\Lenovo\source\repos\laba10\laba10\bin\Debug\laba10.pdb
+C:\Users\Lenovo\source\repos\laba10\laba10\obj\Debug\laba10.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\laba10\laba10\obj\Debug\laba10.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\laba10\laba10\obj\Debug\laba10.exe
+C:\Users\Lenovo\source\repos\laba10\laba10\obj\Debug\laba10.pdb
+C:\Users\Lenovo\source\repos\ITK9\laba10\bin\Debug\laba10.exe.config
+C:\Users\Lenovo\source\repos\ITK9\laba10\bin\Debug\laba10.exe
+C:\Users\Lenovo\source\repos\ITK9\laba10\bin\Debug\laba10.pdb
+C:\Users\Lenovo\source\repos\ITK9\laba10\obj\Debug\laba10.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ITK9\laba10\obj\Debug\laba10.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ITK9\laba10\obj\Debug\laba10.exe
+C:\Users\Lenovo\source\repos\ITK9\laba10\obj\Debug\laba10.pdb

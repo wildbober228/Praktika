@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ArrayOfAER0FL0T xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AER0FL0T>
+    <pynkt>ddasda</pynkt>
+    <number_reis>1</number_reis>
+    <type_air>1</type_air>
+  </AER0FL0T>
+</ArrayOfAER0FL0T>

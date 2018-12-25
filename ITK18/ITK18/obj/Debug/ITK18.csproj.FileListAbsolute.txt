@@ -1,0 +1,7 @@
+c:\users\lenovo\source\repos\ITK18\ITK18\bin\Debug\ITK18.exe.config
+c:\users\lenovo\source\repos\ITK18\ITK18\bin\Debug\ITK18.exe
+c:\users\lenovo\source\repos\ITK18\ITK18\bin\Debug\ITK18.pdb
+c:\users\lenovo\source\repos\ITK18\ITK18\obj\Debug\ITK18.csprojResolveAssemblyReference.cache
+c:\users\lenovo\source\repos\ITK18\ITK18\obj\Debug\ITK18.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\ITK18\ITK18\obj\Debug\ITK18.exe
+c:\users\lenovo\source\repos\ITK18\ITK18\obj\Debug\ITK18.pdb

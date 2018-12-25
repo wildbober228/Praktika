@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\ITK12\ITK12\bin\Debug\ITK12.exe.config
+C:\Users\Lenovo\source\repos\ITK12\ITK12\bin\Debug\ITK12.exe
+C:\Users\Lenovo\source\repos\ITK12\ITK12\bin\Debug\ITK12.pdb
+C:\Users\Lenovo\source\repos\ITK12\ITK12\obj\Debug\ITK12.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ITK12\ITK12\obj\Debug\ITK12.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ITK12\ITK12\obj\Debug\ITK12.exe
+C:\Users\Lenovo\source\repos\ITK12\ITK12\obj\Debug\ITK12.pdb

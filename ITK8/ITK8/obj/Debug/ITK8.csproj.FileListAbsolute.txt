@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\ITK8\ITK8\bin\Debug\ITK8.exe.config
+C:\Users\Lenovo\source\repos\ITK8\ITK8\bin\Debug\ITK8.exe
+C:\Users\Lenovo\source\repos\ITK8\ITK8\bin\Debug\ITK8.pdb
+C:\Users\Lenovo\source\repos\ITK8\ITK8\obj\Debug\ITK8.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ITK8\ITK8\obj\Debug\ITK8.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ITK8\ITK8\obj\Debug\ITK8.exe
+C:\Users\Lenovo\source\repos\ITK8\ITK8\obj\Debug\ITK8.pdb

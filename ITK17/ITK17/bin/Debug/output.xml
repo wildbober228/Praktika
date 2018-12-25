@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfCars xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cars>
+    <Marka>Audi</Marka>
+    <NumberOfCar>123</NumberOfCar>
+    <Sname>Bezmen</Sname>
+    <DateOfBuy>2018</DateOfBuy>
+    <Probeg>450000</Probeg>
+  </Cars>
+  <Cars>
+    <Marka>Жигуль</Marka>
+    <NumberOfCar>125</NumberOfCar>
+    <Sname>Blinov</Sname>
+    <DateOfBuy>2017</DateOfBuy>
+    <Probeg>100000</Probeg>
+  </Cars>
+  <Cars xsi:nil="true" />
+</ArrayOfCars>

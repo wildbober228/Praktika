@@ -1,0 +1,7 @@
+c:\users\lenovo\source\repos\ITK16\ITK16\bin\Debug\ITK16.exe.config
+c:\users\lenovo\source\repos\ITK16\ITK16\bin\Debug\ITK16.exe
+c:\users\lenovo\source\repos\ITK16\ITK16\bin\Debug\ITK16.pdb
+c:\users\lenovo\source\repos\ITK16\ITK16\obj\Debug\ITK16.csprojResolveAssemblyReference.cache
+c:\users\lenovo\source\repos\ITK16\ITK16\obj\Debug\ITK16.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\ITK16\ITK16\obj\Debug\ITK16.exe
+c:\users\lenovo\source\repos\ITK16\ITK16\obj\Debug\ITK16.pdb

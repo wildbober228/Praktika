@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\ITK19\ITK19\bin\Debug\ITK19.exe.config
+C:\Users\Lenovo\source\repos\ITK19\ITK19\bin\Debug\ITK19.exe
+C:\Users\Lenovo\source\repos\ITK19\ITK19\bin\Debug\ITK19.pdb
+C:\Users\Lenovo\source\repos\ITK19\ITK19\obj\Debug\ITK19.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ITK19\ITK19\obj\Debug\ITK19.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ITK19\ITK19\obj\Debug\ITK19.exe
+C:\Users\Lenovo\source\repos\ITK19\ITK19\obj\Debug\ITK19.pdb
